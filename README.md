@@ -38,6 +38,8 @@ Người chơi sẽ nhập vai vào một võ sĩ dưới góc nhìn thứ nhấ
     - Đấm thân: damage trung bình
     - Đỡ đòn giảm hoặc chặn sát thương
 
+<img src="IMGS/Screenshot 2026-04-22 122625.png" alt="gameplay" width="800"/>
+
 * **AI đối thủ:**  
   - Tự động:
     - Tấn công theo thời gian ngẫu nhiên
@@ -63,7 +65,9 @@ Người chơi sẽ nhập vai vào một võ sĩ dưới góc nhìn thứ nhấ
   - 🥊 Stage 1 – Rookie Brawl  
   - 💪 Stage 2 – Prison Enforcer  
   - 👑 Stage 3 – The Champion  
-  - 🏆 Kết thúc: Champion of the Shadow Ring  
+  - 🏆 Kết thúc: Champion of the Shadow Ring
+
+ <img src="IMGS/Screenshot 2026-04-22 121622.png" alt="gameplay" width="800"/>
 
 ---
 
@@ -136,3 +140,11 @@ pip install requirements.txt
 ```
 python shadow_boxer_ai.py
 ```
+
+
+
+
+
+
+
+
